@@ -1,0 +1,11 @@
+.container {
+  font-size: 30px;
+  margin: 20% 40%;
+}
+
+.menu-shown {
+  display: inline-block;
+}
+.menu-hidden {
+  display: none;
+}
